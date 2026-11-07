@@ -1,62 +1,57 @@
 # Hi, I'm Ashraf Talha 👋
 
-**Engineering Manager | Software Architect | Open Source Maintainer**
+**Engineering Manager | Software Architect | Laravel Package Author**
 
 📍 Riyadh, Saudi Arabia 🇸🇦
 
-I'm an Engineering Manager at **Gathern**, with 12+ years of software engineering experience spanning hands-on development, technical leadership, and engineering management.
+I'm an Engineering Manager at **Gathern**, with 12+ years of experience building software, designing scalable systems, and leading engineering teams.
 
-I focus on building reliable systems, growing high-performing engineering teams, and turning complex technical challenges into practical solutions.
+I combine engineering leadership with hands-on technical expertise, focusing on **system reliability, software architecture, engineering productivity, and delivering business value**.
 
-### 👨‍💻 What I Do
+### 👨‍💻 Engineering Leadership & Impact
 
-- **Engineering Leadership** — Lead cross-functional engineering squads across Backend, Frontend, iOS, Android, and QA. Drive execution, technical direction, hiring, mentoring, and engineering quality.
-- **Software Architecture** — Design scalable backend systems, microservices, APIs, and cloud-native solutions, with a focus on maintainability and operational reliability.
-- **Engineering Excellence** — Improve delivery processes, observability, system performance, incident response, and developer productivity.
-- **Hands-on Engineering** — Build developer tools, Laravel packages, and practical solutions to real-world engineering problems.
+- **Lead ~15 engineers and QA professionals across 3 cross-functional teams**, spanning Backend, Frontend, iOS, Android, and QA.
+- **Drive engineering delivery and technical execution**, including architecture decisions, sprint planning, hiring, mentoring, and performance management.
+- **Lead platform modernization initiatives**, including evolving legacy monolithic systems toward microservices and improving production operations.
+- **Focus on measurable engineering outcomes**, including system latency, application reliability, deployment quality, and incident response.
 
-### 🚀 Open Source
+### 🚀 What I'm Building
 
 #### [Laravel OpConsole](https://github.com/ashraftalha/laravel-opconsole)
 
-A production-focused operations console for Laravel applications.
+A secure, production-focused operations console for Laravel applications.
 
-Provides a secure web interface to monitor application health, inspect logs, diagnose operational issues, and execute controlled maintenance actions.
+Monitor application health, diagnose issues, inspect logs, and safely execute maintenance operations through a unified web interface.
 
-Built with a focus on **security, operational visibility, and developer experience**.
+**Key capabilities:**
+- Application health monitoring and operational diagnostics
+- Log inspection and failed-job management
+- Secure, allow-listed maintenance operations
+- Laravel Octane and queue-worker monitoring
+- Operational auditing and execution safeguards
+
+![Laravel OpConsole Dashboard](https://raw.githubusercontent.com/ashraftalha/laravel-opconsole/main/art/screenshots/overview-light.png)
 
 ```bash
 composer require ashraftalha/laravel-opconsole
 ```
 
-[View Repository](https://github.com/ashraftalha/laravel-opconsole)
-
 ### 🛠️ Technical Expertise
 
-**Backend:** PHP, Laravel, Yii2, REST APIs, Microservices
+**Backend & Architecture:** PHP, Laravel, Yii2, Microservices, REST APIs
 
 **Frontend:** React, JavaScript
 
 **Data:** MySQL, MongoDB, Redis, BigQuery
 
-**Cloud & Infrastructure:** AWS, Kubernetes, Docker, Nginx
+**Infrastructure:** AWS, Kubernetes, Docker, Nginx
 
 **Observability:** Datadog, New Relic
 
-**Engineering Practices:** System Design, CI/CD, Performance Optimization, Production Reliability
+### 🎯 Areas of Interest
 
-### 🎯 Current Interests
+Engineering Leadership · Distributed Systems · AI-Assisted Development · Developer Productivity · SaaS Engineering
 
-- Engineering leadership and team effectiveness
-- Software architecture and distributed systems
-- AI-assisted software development and engineering productivity
-- Developer tooling and open-source software
-- Building practical SaaS products
+### 🤝 Connect
 
-### 🤝 Let's Connect
-
-I'm interested in connecting with engineering leaders, developers, founders, and teams working on challenging technical problems.
-
-- 🌐 **Website:** [ashraftalha.com](https://ashraftalha.com)
-- 💼 **LinkedIn:** [Ashraf Talha](https://www.linkedin.com/in/ashraf-talha-56812132)
-- 📧 **Email:** ashraf.talha90@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ashraf-talha-56812132) · [Personal Website](https://ashraftalha.com) · [Email](mailto:ashraf.talha90@gmail.com)
