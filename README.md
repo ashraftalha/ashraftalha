@@ -1,57 +1,52 @@
-# Hi, I'm Ashraf Talha 👋
+# Ashraf Talha
 
-**Engineering Manager | Software Architect | Laravel Package Author**
+**Engineering Manager | Software Architect | Open-Source Maintainer**
 
-📍 Riyadh, Saudi Arabia 🇸🇦
+Riyadh, Saudi Arabia
 
-I'm an Engineering Manager at **Gathern**, with 12+ years of experience building software, designing scalable systems, and leading engineering teams.
+I lead engineering teams, modernize platforms, and build software products with a focus on reliability. My work connects engineering delivery with hands-on software architecture and distributed systems design.
 
-I combine engineering leadership with hands-on technical expertise, focusing on **system reliability, software architecture, engineering productivity, and delivering business value**.
+[Website](https://ashraftalha.com) · [LinkedIn](https://www.linkedin.com/in/ashraf-talha-56812132) · [GitHub](https://github.com/ashraftalha)
 
-### 👨‍💻 Engineering Leadership & Impact
+## Engineering Leadership & Impact
 
-- **Lead ~15 engineers and QA professionals across 3 cross-functional teams**, spanning Backend, Frontend, iOS, Android, and QA.
-- **Drive engineering delivery and technical execution**, including architecture decisions, sprint planning, hiring, mentoring, and performance management.
-- **Lead platform modernization initiatives**, including evolving legacy monolithic systems toward microservices and improving production operations.
-- **Focus on measurable engineering outcomes**, including system latency, application reliability, deployment quality, and incident response.
+As **Engineering Manager at Gathern**, I bring **12+ years of software engineering experience** to leading **three cross-functional teams**, comprising approximately **15 engineering and QA professionals** across Backend, Frontend, iOS, Android, and QA.
 
-### 🚀 What I'm Building
+- **Architecture & modernization:** Guide system design and the evolution of monolithic applications toward microservices, with attention to reliability and maintainability.
+- **Engineering delivery:** Lead technical execution and sprint planning, connecting architecture decisions with product delivery.
+- **People & teams:** Hire, mentor, and manage performance to support engineers' development and team effectiveness.
+- **Production reliability:** Lead production operations and incident management, with a focus on application latency, deployment quality, and incident response.
 
-#### [Laravel OpConsole](https://github.com/ashraftalha/laravel-opconsole)
+## Featured Open Source · Laravel OpConsole
 
-A secure, production-focused operations console for Laravel applications.
+I build and maintain **Laravel OpConsole**, a production-oriented operations console for Laravel applications. It brings application health, operational diagnostics, and controlled maintenance into one web interface.
 
-Monitor application health, diagnose issues, inspect logs, and safely execute maintenance operations through a unified web interface.
+[Explore the repository](https://github.com/ashraftalha/laravel-opconsole) · [Read the documentation](https://opconsole.ashraftalha.com/)
 
-**Key capabilities:**
-- Application health monitoring and operational diagnostics
-- Log inspection and failed-job management
-- Secure, allow-listed maintenance operations
-- Laravel Octane and queue-worker monitoring
-- Operational auditing and execution safeguards
+- **Health & observability:** Application health monitoring, custom health checks, and Laravel Octane and queue-worker monitoring.
+- **Diagnostics & recovery:** Log inspection and analysis, plus failed-job monitoring and retry.
+- **Secure operations:** Authorization-controlled, allow-listed Artisan operations with execution safeguards.
+- **Security & auditing:** Security checks and an audit trail of operational actions.
 
-![Laravel OpConsole Dashboard](https://raw.githubusercontent.com/ashraftalha/laravel-opconsole/main/art/screenshots/overview-light.png)
+![Laravel OpConsole dashboard showing application health, operational issues, and runtime status](https://raw.githubusercontent.com/ashraftalha/laravel-opconsole/main/art/screenshots/overview-light.png)
 
-```bash
-composer require ashraftalha/laravel-opconsole
-```
+*Dashboard preview uses sample data.*
 
-### 🛠️ Technical Expertise
+## Technical Expertise
 
-**Backend & Architecture:** PHP, Laravel, Yii2, Microservices, REST APIs
+- **Engineering & Architecture:** Distributed Systems · Microservices · System Design · API Design (REST) · Software Reliability
+- **Backend:** PHP · Laravel · Yii2
+- **Frontend:** React · JavaScript
+- **Data:** MySQL · MongoDB · Redis · BigQuery
+- **Cloud & Infrastructure:** AWS · Docker · Kubernetes · Nginx
+- **Observability:** Datadog · New Relic
 
-**Frontend:** React, JavaScript
+## Engineering Interests
 
-**Data:** MySQL, MongoDB, Redis, BigQuery
+Engineering Leadership · Distributed Systems · Developer Productivity · AI-Assisted Software Engineering · SaaS Engineering · Reliability and Observability
 
-**Infrastructure:** AWS, Kubernetes, Docker, Nginx
+## Connect
 
-**Observability:** Datadog, New Relic
+I'm open to professional connections, technical collaboration, open-source contributions, and consulting discussions around software architecture, platform modernization, and engineering leadership.
 
-### 🎯 Areas of Interest
-
-Engineering Leadership · Distributed Systems · AI-Assisted Development · Developer Productivity · SaaS Engineering
-
-### 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/ashraf-talha-56812132) · [Personal Website](https://ashraftalha.com) · [Email](mailto:ashraf.talha90@gmail.com)
+[Website](https://ashraftalha.com) · [LinkedIn](https://www.linkedin.com/in/ashraf-talha-56812132) · [Email](mailto:ashraf.talha90@gmail.com)
